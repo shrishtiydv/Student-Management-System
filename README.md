@@ -57,7 +57,7 @@ src/
 
 ### Clone Repository
 
-git clone https://github.com/yourusername/Student-Management-System.git
+git clone https://github.com/shrishtiydv/Student-Management-System
 
 ### Open Project
 
