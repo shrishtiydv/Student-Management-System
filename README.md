@@ -45,13 +45,23 @@ Table: students
 
 ## Project Structure
 
-src/
-├── Student.java
-├── StudentDAO.java
-├── DatabaseConnection.java
-└── Main.java
-
----
+```text
+StudentManagementSystem/
+├── src/
+│   └── main/
+│       └── java/
+│           ├── app/
+│           │   └── Main.java
+│           ├── dao/
+│           │   └── StudentDAO.java
+│           ├── database/
+│           │   └── DBConnection.java
+│           └── model/
+│               └── Student.java
+├── pom.xml
+├── README.md
+└── .gitignore
+```
 
 ## How to Run
 
@@ -99,6 +109,6 @@ Run Main.java
 
 ## Author
 
-Shrishti Yadav 
-B.Tech CSE (AI)
-KIET Group of Institutions
+- Shrishti Yadav
+- B.Tech CSE (AI)
+- KIET Group of Institutions
